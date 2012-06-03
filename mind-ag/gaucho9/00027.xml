@@ -1,0 +1,3511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href='http://jason.sf.net/xml/agInspection.xsl' type='text/xsl' ?>
+
+<agent cycle="27" name="gaucho9">
+<beliefs>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho5"/>
+<structure functor="be_normal_mission2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho3"/>
+<structure functor="be_normal_mission2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho2"/>
+<structure functor="be_normal_mission2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho9"/>
+<structure functor="be_normal_mission2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho10"/>
+<structure functor="be_normal_mission2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho4"/>
+<structure functor="be_normal_mission2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>125</number-term>
+<number-term>28</number-term>
+<number-term>31</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>58</number-term>
+<number-term>29</number-term>
+<number-term>23</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>112</number-term>
+<number-term>28</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>114</number-term>
+<number-term>26</number-term>
+<number-term>33</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>46</number-term>
+<number-term>30</number-term>
+<number-term>23</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>102</number-term>
+<number-term>29</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>27</number-term>
+<number-term>21</number-term>
+<number-term>14</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>21</number-term>
+<number-term>25</number-term>
+<number-term>16</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>143</number-term>
+<number-term>43</number-term>
+<number-term>33</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>138</number-term>
+<number-term>42</number-term>
+<number-term>33</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>122</number-term>
+<number-term>28</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>113</number-term>
+<number-term>28</number-term>
+<number-term>29</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>115</number-term>
+<number-term>24</number-term>
+<number-term>34</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>37</number-term>
+<number-term>29</number-term>
+<number-term>22</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>25</number-term>
+<number-term>24</number-term>
+<number-term>16</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>18</number-term>
+<number-term>22</number-term>
+<number-term>15</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>142</number-term>
+<number-term>39</number-term>
+<number-term>31</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>137</number-term>
+<number-term>42</number-term>
+<number-term>32</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>16</number-term>
+<number-term>24</number-term>
+<number-term>17</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>132</number-term>
+<number-term>25</number-term>
+<number-term>34</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>26</number-term>
+<number-term>28</number-term>
+<number-term>20</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>36</number-term>
+<number-term>26</number-term>
+<number-term>19</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>35</number-term>
+<number-term>27</number-term>
+<number-term>20</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>34</number-term>
+<number-term>26</number-term>
+<number-term>20</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>28</number-term>
+<number-term>24</number-term>
+<number-term>19</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>24</number-term>
+<number-term>25</number-term>
+<number-term>19</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>22</number-term>
+<number-term>25</number-term>
+<number-term>20</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>23</number-term>
+<number-term>25</number-term>
+<number-term>18</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>20</number-term>
+<number-term>24</number-term>
+<number-term>20</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>19</number-term>
+<number-term>24</number-term>
+<number-term>18</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>121</number-term>
+<number-term>26</number-term>
+<number-term>29</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>123</number-term>
+<number-term>26</number-term>
+<number-term>31</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>111</number-term>
+<number-term>26</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>110</number-term>
+<number-term>26</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>134</number-term>
+<number-term>26</number-term>
+<number-term>32</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>100</number-term>
+<number-term>27</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>136</number-term>
+<number-term>25</number-term>
+<number-term>35</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>103</number-term>
+<number-term>27</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>17</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>124</number-term>
+<number-term>27</number-term>
+<number-term>31</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>15</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>48</number-term>
+<number-term>28</number-term>
+<number-term>22</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>15</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>16</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>17</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>90</number-term>
+<number-term>28</number-term>
+<number-term>26</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>80</number-term>
+<number-term>29</number-term>
+<number-term>25</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>12</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>13</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>15</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>16</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>79</number-term>
+<number-term>28</number-term>
+<number-term>25</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>70</number-term>
+<number-term>29</number-term>
+<number-term>24</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>12</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>13</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>15</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>16</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>69</number-term>
+<number-term>28</number-term>
+<number-term>23</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>68</number-term>
+<number-term>28</number-term>
+<number-term>24</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="gsize">
+<arguments>
+<number-term>50</number-term>
+<number-term>50</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="corral">
+<arguments>
+<number-term>1</number-term>
+<number-term>41</number-term>
+<number-term>8</number-term>
+<number-term>48</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ag_perception_ratio">
+<arguments>
+<number-term>3</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="steps">
+<arguments>
+<number-term>750</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="scheme_group">
+<arguments>
+<structure functor="sch_01_change_scheme2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="scheme">
+<arguments>
+<structure functor="change_scheme1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="scheme">
+<arguments>
+<structure functor="change_scheme2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho2"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho10"/>
+<number-term>22</number-term>
+<number-term>36</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho8"/>
+<number-term>25</number-term>
+<number-term>40</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho6"/>
+<number-term>32</number-term>
+<number-term>36</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho4"/>
+<number-term>29</number-term>
+<number-term>35</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho7"/>
+<number-term>44</number-term>
+<number-term>30</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho3"/>
+<number-term>32</number-term>
+<number-term>20</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho5"/>
+<number-term>24</number-term>
+<number-term>11</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho2"/>
+<number-term>27</number-term>
+<number-term>17</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho1"/>
+<number-term>39</number-term>
+<number-term>15</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="team_size">
+<arguments>
+<number-term>10</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="fence_obstacle">
+<arguments>
+<structure functor="no"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho8"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho5"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho3"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho10"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho2"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho4"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho9"/>
+<structure functor="change2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cows_by_boy">
+<arguments>
+<number-term>6</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="target">
+<arguments>
+<number-term>36</number-term>
+<number-term>25</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group_leader">
+<arguments>
+<structure functor="gr_05_chng1"/>
+<structure functor="gaucho1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group_leader">
+<arguments>
+<structure functor="gr_03_chng2"/>
+<structure functor="gaucho2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="gaucho2"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group">
+<arguments>
+<structure functor="chng1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+<structure functor="super_gr" sep=",">
+<arguments>
+<structure functor="gr_01_team"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group">
+<arguments>
+<structure functor="chng2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho2"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+<structure functor="super_gr" sep=",">
+<arguments>
+<structure functor="gr_01_team"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group">
+<arguments>
+<structure functor="team"/>
+<structure functor="gr_01_team"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="root" sep=""/>
+<structure functor="owner" sep=",">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho10"/>
+<number-term>10</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho9"/>
+<number-term>9</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho8"/>
+<number-term>8</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho7"/>
+<number-term>7</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho6"/>
+<number-term>6</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho5"/>
+<number-term>5</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho4"/>
+<number-term>4</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho3"/>
+<number-term>3</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho2"/>
+<number-term>2</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho1"/>
+<number-term>1</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<rule>
+<head>
+<literal>
+<structure functor="corral_half_width">
+<arguments>
+<var-term functor="W"/>
+</arguments>
+</structure>
+</literal>
+</head>
+<context>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="switch">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.is_corral_switch" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="is_horizontal">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="corral">
+<arguments>
+<var-term functor="_UpperLeftX"/>
+<var-term functor="UpperLeftY"/>
+<var-term functor="_DownRightX"/>
+<var-term functor="DownRightY"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="W"/>
+</left>
+<right>
+<expression operator="/" type="arithmetic">
+<left>
+<expression type="arithmetic">
+<right>
+<structure functor="math.abs">
+<arguments>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="UpperLeftY"/>
+</left>
+<right>
+<var-term functor="DownRightY"/>
+</right>
+</expression>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<number-term>2</number-term>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</context>
+</rule>
+<rule>
+<head>
+<literal>
+<structure functor="corral_half_width">
+<arguments>
+<var-term functor="W"/>
+</arguments>
+</structure>
+</literal>
+</head>
+<context>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="switch">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.is_corral_switch" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="is_vertical">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="corral">
+<arguments>
+<var-term functor="UpperLeftX"/>
+<var-term functor="_UpperLeftY"/>
+<var-term functor="DownRightX"/>
+<var-term functor="_DownRightY"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="W"/>
+</left>
+<right>
+<expression operator="/" type="arithmetic">
+<left>
+<expression type="arithmetic">
+<right>
+<structure functor="math.abs">
+<arguments>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="UpperLeftX"/>
+</left>
+<right>
+<var-term functor="DownRightX"/>
+</right>
+</expression>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<number-term>2</number-term>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</context>
+</rule>
+<literal>
+<structure functor="goal_state">
+<arguments>
+<structure functor="sch_01_change_scheme2"/>
+<structure functor="go_random"/>
+<structure functor="ready"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="goal_state">
+<arguments>
+<structure functor="sch_01_change_scheme2"/>
+<structure functor="be_normal2">
+<annotations>
+<list-term>
+<structure functor="root" sep=""/>
+</list-term>
+</annotations>
+</structure>
+<structure functor="waiting"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="goal_state">
+<arguments>
+<structure functor="sch_01_change_scheme2"/>
+<structure functor="check_change"/>
+<structure functor="ready"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="corral_center">
+<arguments>
+<number-term>4.5</number-term>
+<number-term>44.5</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow_perception_ratio">
+<arguments>
+<number-term>4</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="pos">
+<arguments>
+<number-term>31</number-term>
+<number-term>30</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<rule>
+<head>
+<literal>
+<structure functor="random_pos">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</head>
+<context>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="pos">
+<arguments>
+<var-term functor="AgX"/>
+<var-term functor="AgY"/>
+<var-term functor="_765"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.random" ia="true">
+<arguments>
+<var-term functor="RX"/>
+<number-term>20</number-term>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.random" ia="true">
+<arguments>
+<var-term functor="RY"/>
+<number-term>20</number-term>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="X"/>
+</left>
+<right>
+<expression operator="+" type="arithmetic">
+<left>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="RX"/>
+</left>
+<right>
+<number-term>10</number-term>
+</right>
+</expression>
+</left>
+<right>
+<var-term functor="AgX"/>
+</right>
+</expression>
+</right>
+</expression>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="Y"/>
+</left>
+<right>
+<expression operator="+" type="arithmetic">
+<left>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="RY"/>
+</left>
+<right>
+<number-term>10</number-term>
+</right>
+</expression>
+</left>
+<right>
+<var-term functor="AgY"/>
+</right>
+</expression>
+</right>
+</expression>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator="not " type="logical">
+<right>
+<structure functor="jia.obstacle" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator="not " type="logical">
+<right>
+<structure functor="jia.fence" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<expression operator="not " type="logical">
+<right>
+<structure functor="jia.corral" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</context>
+</rule>
+</beliefs>
+<circumstance>
+<intentions>
+<intention id="366" pending="366/+pos(_2000,_2001,_2002)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho9"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>88</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="365" pending="365/+pos(_1997,_1998,_1999)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho9"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>26</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="273" pending="do(northeast)">
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal>
+<literal>
+<structure functor="do">
+<arguments>
+<var-term functor="D"/>
+</arguments>
+</structure>
+</literal>
+</body-literal>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="northeast"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_766"/>
+<value>
+<number-term>27</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>30</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>31</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="northeast"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_766"/>
+<value>
+<number-term>26</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>31</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>30</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="northeast"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_766"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>31</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>30</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="southeast"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_766"/>
+<value>
+<number-term>24</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>30</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>29</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="southeast"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_766"/>
+<value>
+<number-term>23</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>30</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>29</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+target(36,25)[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="NY"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="NX"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!go_random[group(gr_03_chng2),mission(be_normal_mission2),role(change2),scheme(sch_01_change_scheme2),source(orgManager),type(maintenance)]">
+<body>
+<body-literal type="+">
+<literal>
+<structure functor="target">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</body-literal>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="go_random"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="_1651X"/>
+<value>
+<number-term>36</number-term>
+</value>
+</map>
+<map>
+<var-term functor="_1652Y"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<var-term functor="_1652Y"/>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<var-term functor="_1651X"/>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+</intentions>
+<actions>
+<action intention="273" pending="273" result="false" term="do(northeast)"/>
+</actions>
+</circumstance>
+</agent>

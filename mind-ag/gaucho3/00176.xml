@@ -1,0 +1,9005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href='http://jason.sf.net/xml/agInspection.xsl' type='text/xsl' ?>
+
+<agent cycle="176" name="gaucho3">
+<beliefs>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho9"/>
+<structure functor="be_normal_mission1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho5"/>
+<structure functor="be_normal_mission1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho8"/>
+<structure functor="be_normal_mission1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho3"/>
+<structure functor="be_normal_mission1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="commitment">
+<arguments>
+<structure functor="gaucho1"/>
+<structure functor="be_normal_mission1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>74</number-term>
+<number-term>24</number-term>
+<number-term>25</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>166</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>19</number-term>
+<number-term>24</number-term>
+<number-term>24</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>166</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>76</number-term>
+<number-term>24</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>161</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>162</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>163</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>124</number-term>
+<number-term>25</number-term>
+<number-term>29</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>150</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>152</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>154</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>156</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>157</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>98</number-term>
+<number-term>25</number-term>
+<number-term>30</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>150</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>152</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>154</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>156</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>157</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>86</number-term>
+<number-term>25</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>150</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>152</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>154</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>156</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>157</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>104</number-term>
+<number-term>27</number-term>
+<number-term>32</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>137</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>109</number-term>
+<number-term>28</number-term>
+<number-term>32</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>137</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>105</number-term>
+<number-term>26</number-term>
+<number-term>32</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>132</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>134</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>135</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>137</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>132</number-term>
+<number-term>29</number-term>
+<number-term>33</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>131</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>115</number-term>
+<number-term>30</number-term>
+<number-term>34</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>130</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>13</number-term>
+<number-term>6</number-term>
+<number-term>16</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>105</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>10</number-term>
+<number-term>6</number-term>
+<number-term>17</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>104</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>105</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>0</number-term>
+<number-term>10</number-term>
+<number-term>19</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>99</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>39</number-term>
+<number-term>18</number-term>
+<number-term>14</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>74</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>75</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>6</number-term>
+<number-term>13</number-term>
+<number-term>21</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>66</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>82</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>84</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>135</number-term>
+<number-term>28</number-term>
+<number-term>31</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>64</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>138</number-term>
+<number-term>45</number-term>
+<number-term>38</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>63</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>59</number-term>
+<number-term>29</number-term>
+<number-term>30</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>62</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>63</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>136</number-term>
+<number-term>30</number-term>
+<number-term>29</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>61</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>149</number-term>
+<number-term>41</number-term>
+<number-term>36</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>53</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>46</number-term>
+<number-term>30</number-term>
+<number-term>23</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>48</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>49</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>24</number-term>
+<number-term>29</number-term>
+<number-term>22</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>47</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>152</number-term>
+<number-term>40</number-term>
+<number-term>33</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>42</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>81</number-term>
+<number-term>30</number-term>
+<number-term>25</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>28</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>112</number-term>
+<number-term>28</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>102</number-term>
+<number-term>29</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>27</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>91</number-term>
+<number-term>30</number-term>
+<number-term>26</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>27</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>28</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>92</number-term>
+<number-term>29</number-term>
+<number-term>26</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>27</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>113</number-term>
+<number-term>28</number-term>
+<number-term>29</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>26</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>18</number-term>
+<number-term>22</number-term>
+<number-term>15</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>121</number-term>
+<number-term>26</number-term>
+<number-term>29</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>123</number-term>
+<number-term>26</number-term>
+<number-term>31</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>111</number-term>
+<number-term>26</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>110</number-term>
+<number-term>26</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>100</number-term>
+<number-term>27</number-term>
+<number-term>27</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>103</number-term>
+<number-term>27</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>17</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>48</number-term>
+<number-term>28</number-term>
+<number-term>22</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>15</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>16</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>17</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>18</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>19</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>20</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>21</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>22</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>23</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>24</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>25</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>32</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>33</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>79</number-term>
+<number-term>28</number-term>
+<number-term>25</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>70</number-term>
+<number-term>29</number-term>
+<number-term>24</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>12</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>13</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>16</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>27</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>69</number-term>
+<number-term>28</number-term>
+<number-term>23</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow">
+<arguments>
+<number-term>68</number-term>
+<number-term>28</number-term>
+<number-term>24</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>0</number-term>
+</arguments>
+</structure>
+<structure functor="step" sep=",">
+<arguments>
+<number-term>11</number-term>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="gsize">
+<arguments>
+<number-term>50</number-term>
+<number-term>50</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="corral">
+<arguments>
+<number-term>1</number-term>
+<number-term>41</number-term>
+<number-term>8</number-term>
+<number-term>48</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ag_perception_ratio">
+<arguments>
+<number-term>3</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="steps">
+<arguments>
+<number-term>750</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="scheme_group">
+<arguments>
+<structure functor="sch_02_change_scheme1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="scheme">
+<arguments>
+<structure functor="change_scheme1"/>
+<structure functor="sch_02_change_scheme1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="scheme">
+<arguments>
+<structure functor="change_scheme2"/>
+<structure functor="sch_01_change_scheme2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho2"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho9"/>
+<number-term>17</number-term>
+<number-term>21</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho4"/>
+<number-term>2</number-term>
+<number-term>18</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho10"/>
+<number-term>8</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho5"/>
+<number-term>6</number-term>
+<number-term>10</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho6"/>
+<number-term>44</number-term>
+<number-term>44</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho8"/>
+<number-term>5</number-term>
+<number-term>43</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho7"/>
+<number-term>46</number-term>
+<number-term>28</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho2"/>
+<number-term>27</number-term>
+<number-term>17</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="ally_pos">
+<arguments>
+<structure functor="gaucho1"/>
+<number-term>39</number-term>
+<number-term>15</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="team_size">
+<arguments>
+<number-term>10</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="fence_obstacle">
+<arguments>
+<structure functor="no"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho9"/>
+<structure functor="change1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho5"/>
+<structure functor="change1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho8"/>
+<structure functor="change1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho1"/>
+<structure functor="change1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="play">
+<arguments>
+<structure functor="gaucho3"/>
+<structure functor="change1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cows_by_boy">
+<arguments>
+<number-term>6</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="target">
+<arguments>
+<number-term>38</number-term>
+<number-term>4</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group_leader">
+<arguments>
+<structure functor="gr_05_chng1"/>
+<structure functor="gaucho1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group_leader">
+<arguments>
+<structure functor="gr_03_chng2"/>
+<structure functor="gaucho2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="gaucho2"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group">
+<arguments>
+<structure functor="chng1"/>
+<structure functor="gr_05_chng1"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+<structure functor="super_gr" sep=",">
+<arguments>
+<structure functor="gr_01_team"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group">
+<arguments>
+<structure functor="chng2"/>
+<structure functor="gr_03_chng2"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="owner" sep="">
+<arguments>
+<structure functor="gaucho2"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+<structure functor="super_gr" sep=",">
+<arguments>
+<structure functor="gr_01_team"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="group">
+<arguments>
+<structure functor="team"/>
+<structure functor="gr_01_team"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="root" sep=""/>
+<structure functor="owner" sep=",">
+<arguments>
+<structure functor="gaucho1"/>
+</arguments>
+</structure>
+<structure functor="source" sep=",">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho10"/>
+<number-term>10</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho9"/>
+<number-term>9</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho8"/>
+<number-term>8</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho7"/>
+<number-term>7</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho6"/>
+<number-term>6</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho5"/>
+<number-term>5</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho4"/>
+<number-term>4</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho3"/>
+<number-term>3</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho2"/>
+<number-term>2</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="agent_id">
+<arguments>
+<structure functor="gaucho1"/>
+<number-term>1</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<rule>
+<head>
+<literal>
+<structure functor="corral_half_width">
+<arguments>
+<var-term functor="W"/>
+</arguments>
+</structure>
+</literal>
+</head>
+<context>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="switch">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.is_corral_switch" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="is_horizontal">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="corral">
+<arguments>
+<var-term functor="_UpperLeftX"/>
+<var-term functor="UpperLeftY"/>
+<var-term functor="_DownRightX"/>
+<var-term functor="DownRightY"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="W"/>
+</left>
+<right>
+<expression operator="/" type="arithmetic">
+<left>
+<expression type="arithmetic">
+<right>
+<structure functor="math.abs">
+<arguments>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="UpperLeftY"/>
+</left>
+<right>
+<var-term functor="DownRightY"/>
+</right>
+</expression>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<number-term>2</number-term>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</context>
+</rule>
+<rule>
+<head>
+<literal>
+<structure functor="corral_half_width">
+<arguments>
+<var-term functor="W"/>
+</arguments>
+</structure>
+</literal>
+</head>
+<context>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="switch">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.is_corral_switch" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="is_vertical">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="corral">
+<arguments>
+<var-term functor="UpperLeftX"/>
+<var-term functor="_UpperLeftY"/>
+<var-term functor="DownRightX"/>
+<var-term functor="_DownRightY"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="W"/>
+</left>
+<right>
+<expression operator="/" type="arithmetic">
+<left>
+<expression type="arithmetic">
+<right>
+<structure functor="math.abs">
+<arguments>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="UpperLeftX"/>
+</left>
+<right>
+<var-term functor="DownRightX"/>
+</right>
+</expression>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<number-term>2</number-term>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</context>
+</rule>
+<literal>
+<structure functor="goal_state">
+<arguments>
+<structure functor="sch_02_change_scheme1"/>
+<structure functor="go_random"/>
+<structure functor="ready"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="goal_state">
+<arguments>
+<structure functor="sch_02_change_scheme1"/>
+<structure functor="check_change"/>
+<structure functor="ready"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="goal_state">
+<arguments>
+<structure functor="sch_02_change_scheme1"/>
+<structure functor="be_normal1">
+<annotations>
+<list-term>
+<structure functor="root" sep=""/>
+</list-term>
+</annotations>
+</structure>
+<structure functor="waiting"/>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="orgManager"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="corral_center">
+<arguments>
+<number-term>4.5</number-term>
+<number-term>44.5</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="cow_perception_ratio">
+<arguments>
+<number-term>4</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="self"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<literal>
+<structure functor="pos">
+<arguments>
+<number-term>38</number-term>
+<number-term>4</number-term>
+<number-term>176</number-term>
+</arguments>
+<annotations>
+<list-term>
+<structure functor="source" sep="">
+<arguments>
+<structure functor="percept"/>
+</arguments>
+</structure>
+</list-term>
+</annotations>
+</structure>
+</literal>
+<rule>
+<head>
+<literal>
+<structure functor="random_pos">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</head>
+<context>
+<expression operator=" &amp; " type="logical">
+<left>
+<literal>
+<structure functor="pos">
+<arguments>
+<var-term functor="AgX"/>
+<var-term functor="AgY"/>
+<var-term functor="_243"/>
+</arguments>
+</structure>
+</literal>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.random" ia="true">
+<arguments>
+<var-term functor="RX"/>
+<number-term>20</number-term>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<structure functor="jia.random" ia="true">
+<arguments>
+<var-term functor="RY"/>
+<number-term>20</number-term>
+</arguments>
+</structure>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="X"/>
+</left>
+<right>
+<expression operator="+" type="arithmetic">
+<left>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="RX"/>
+</left>
+<right>
+<number-term>10</number-term>
+</right>
+</expression>
+</left>
+<right>
+<var-term functor="AgX"/>
+</right>
+</expression>
+</right>
+</expression>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator=" = " type="relational">
+<left>
+<var-term functor="Y"/>
+</left>
+<right>
+<expression operator="+" type="arithmetic">
+<left>
+<expression operator="-" type="arithmetic">
+<left>
+<var-term functor="RY"/>
+</left>
+<right>
+<number-term>10</number-term>
+</right>
+</expression>
+</left>
+<right>
+<var-term functor="AgY"/>
+</right>
+</expression>
+</right>
+</expression>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator="not " type="logical">
+<right>
+<structure functor="jia.obstacle" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<expression operator=" &amp; " type="logical">
+<left>
+<expression operator="not " type="logical">
+<right>
+<structure functor="jia.fence" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</right>
+</expression>
+</left>
+<right>
+<expression operator="not " type="logical">
+<right>
+<structure functor="jia.corral" ia="true">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</right>
+</expression>
+</context>
+</rule>
+</beliefs>
+<circumstance>
+<intentions>
+<intention id="15945" pending="15945/+pos(_52399,_52400,_52401)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>53</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15927" pending="15927/+pos(_52375,_52376,_52377)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>23</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15917" pending="15917/+pos(_52360,_52361,_52362)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>44</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15884" pending="15884/+pos(_52300,_52301,_52302)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>87</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15888" pending="15888/+pos(_52483,_52484,_52485)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>6</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15905" pending="15905/+pos(_52351,_52352,_52353)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>13</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15889" pending="15889/+pos(_52498,_52499,_52500)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>8</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15921" pending="15921/+pos(_52366,_52367,_52368)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>49</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15952" pending="15952/+pos(_52411,_52412,_52413)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>56</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15962" pending="15962/+pos(_52441,_52442,_52443)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>47</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15968" pending="15968/+pos(_52456,_52457,_52458)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>54</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15957" pending="15957/+pos(_52426,_52427,_52428)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>56</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15894" pending="15894/+pos(_52321,_52322,_52323)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>32</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15953" pending="15953/+pos(_52414,_52415,_52416)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>99</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15969" pending="15969/+pos(_52459,_52460,_52461)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>23</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15885" pending="15885/+pos(_52303,_52304,_52305)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>26</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15959" pending="15959/+pos(_52432,_52433,_52434)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>82</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15970" pending="15970/+pos(_52495,_52496,_52497)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>9</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15887" pending="15887/+pos(_52309,_52310,_52311)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>83</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15909" pending="15909/+pos(_52489,_52490,_52491)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>8</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15940" pending="15940/+pos(_52390,_52391,_52392)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>72</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15895" pending="15895/+pos(_52324,_52325,_52326)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>11</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15963" pending="15963/+pos(_52444,_52445,_52446)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>86</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15961" pending="15961/+pos(_52438,_52439,_52440)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>35</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15976" pending="15976/+pos(_52477,_52478,_52479)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>72</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15931" pending="15931/+pos(_52492,_52493,_52494)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15956" pending="15956/+pos(_52423,_52424,_52425)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>30</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15898" pending="15898/+pos(_52333,_52334,_52335)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>51</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15893" pending="15893/+pos(_52318,_52319,_52320)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>33</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15975" pending="15975/+pos(_52474,_52475,_52476)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>41</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15934" pending="15934/+pos(_52384,_52385,_52386)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>72</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15907" pending="15907/+pos(_52354,_52355,_52356)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>50</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15897" pending="15897/+pos(_52330,_52331,_52332)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>18</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15899" pending="15899/+pos(_52336,_52337,_52338)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>76</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15902" pending="15902/+pos(_52501,_52502,_52503)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>7</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15943" pending="15943/+pos(_52396,_52397,_52398)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>97</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15896" pending="15896/+pos(_52327,_52328,_52329)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>25</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15965" pending="15965/+pos(_52450,_52451,_52452)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>80</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15919" pending="15919/+pos(_52363,_52364,_52365)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>78</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15974" pending="15974/+pos(_52471,_52472,_52473)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>89</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15913" pending="15913/+pos(_52357,_52358,_52359)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>85</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15938" pending="15938/+pos(_52507,_52508,_52509)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>2</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15960" pending="15960/+pos(_52435,_52436,_52437)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>61</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15951" pending="15951/+pos(_52408,_52409,_52410)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>24</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15954" pending="15954/+pos(_52417,_52418,_52419)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>26</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15915" pending="15915/+pos(_52504,_52505,_52506)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>7</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15958" pending="15958/+pos(_52429,_52430,_52431)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>23</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15967" pending="15967/+pos(_52453,_52454,_52455)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>16</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15900" pending="15900/+pos(_52339,_52340,_52341)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>54</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15972" pending="15972/+pos(_52465,_52466,_52467)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>94</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15973" pending="15973/+pos(_52468,_52469,_52470)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>51</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15923" pending="15923/+pos(_52369,_52370,_52371)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>19</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15932" pending="15932/+pos(_52381,_52382,_52383)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>26</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15901" pending="15901/+pos(_52342,_52343,_52344)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>34</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15891" pending="15891/+pos(_52486,_52487,_52488)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>1</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15955" pending="15955/+pos(_52420,_52421,_52422)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>86</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15886" pending="15886/+pos(_52306,_52307,_52308)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>91</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15942" pending="15942/+pos(_52393,_52394,_52395)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>61</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15925" pending="15925/+pos(_52372,_52373,_52374)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>32</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15966" pending="15966/+pos(_52510,_52511,_52512)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>7</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15949" pending="15949/+pos(_52402,_52403,_52404)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>96</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15903" pending="15903/+pos(_52345,_52346,_52347)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>53</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15977" pending="15977/+pos(_52480,_52481,_52482)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>72</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15890" pending="15890/+pos(_52312,_52313,_52314)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>32</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15904" pending="15904/+pos(_52348,_52349,_52350)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>99</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15936" pending="15936/+pos(_52387,_52388,_52389)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>56</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15964" pending="15964/+pos(_52447,_52448,_52449)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>81</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15892" pending="15892/+pos(_52315,_52316,_52317)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>99</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15950" pending="15950/+pos(_52405,_52406,_52407)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>83</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15971" pending="15971/+pos(_52462,_52463,_52464)">
+<intended-means trigger="+!check_change[group(gr_03_chng2),mission(be_normal_mission2),scheme(sch_01_change_scheme2),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_01_change_scheme2"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_03_chng2"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission2"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>16</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="15929" pending="15929/+pos(_52378,_52379,_52380)">
+<intended-means trigger="+!check_change[group(gr_05_chng1),mission(be_normal_mission1),scheme(sch_02_change_scheme1),source(self)]">
+<body>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="check_change">
+<annotations>
+<list-term>
+<literal sep="">
+<structure functor="group">
+<arguments>
+<var-term functor="Gr"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="mission">
+<arguments>
+<var-term functor="Mission"/>
+</arguments>
+</structure>
+</literal>
+<literal sep=",">
+<structure functor="scheme">
+<arguments>
+<var-term functor="Sch"/>
+</arguments>
+</structure>
+</literal>
+</list-term>
+</annotations>
+</structure>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="Me"/>
+<value>
+<structure functor="gaucho3"/>
+</value>
+</map>
+<map>
+<var-term functor="Sch"/>
+<value>
+<structure functor="sch_02_change_scheme1"/>
+</value>
+</map>
+<map>
+<var-term functor="Gr"/>
+<value>
+<structure functor="gr_05_chng1"/>
+</value>
+</map>
+<map>
+<var-term functor="Mission"/>
+<value>
+<structure functor="be_normal_mission1"/>
+</value>
+</map>
+<map>
+<var-term functor="POR"/>
+<value>
+<number-term>79</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+<intention id="13771" pending="do(skip)">
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal>
+<literal>
+<structure functor="do">
+<arguments>
+<var-term functor="D"/>
+</arguments>
+</structure>
+</literal>
+</body-literal>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>176</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>175</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>174</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>173</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>172</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>171</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>170</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>169</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>168</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>167</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>166</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>165</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>164</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>163</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>162</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="skip"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>161</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!move[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="D"/>
+<value>
+<structure functor="southwest"/>
+</value>
+</map>
+<map>
+<var-term functor="BY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="BX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="FO"/>
+<value>
+<structure functor="no"/>
+</value>
+</map>
+<map>
+<var-term functor="_244"/>
+<value>
+<number-term>160</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<number-term>3</number-term>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<number-term>39</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+target(38,4)[source(self)]">
+<body>
+<body-literal type="!">
+<literal>
+<structure functor="move"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="NY"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="NX"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+</unifier>
+</intended-means>
+<intended-means trigger="+!go_random[group(gr_05_chng1),mission(be_normal_mission1),role(change1),scheme(sch_02_change_scheme1),source(orgManager),type(maintenance)]">
+<body>
+<body-literal type="+">
+<literal>
+<structure functor="target">
+<arguments>
+<var-term functor="X"/>
+<var-term functor="Y"/>
+</arguments>
+</structure>
+</literal>
+</body-literal>
+<body-literal>
+<structure functor=".wait" ia="true">
+<arguments>
+<string-term>"+pos(_,_,_)"</string-term>
+</arguments>
+</structure>
+</body-literal>
+<body-literal type="!!">
+<literal>
+<structure functor="go_random"/>
+</literal>
+</body-literal>
+</body>
+<unifier>
+<map>
+<var-term functor="_45871X"/>
+<value>
+<number-term>38</number-term>
+</value>
+</map>
+<map>
+<var-term functor="_45872Y"/>
+<value>
+<number-term>4</number-term>
+</value>
+</map>
+<map>
+<var-term functor="Y"/>
+<value>
+<var-term functor="_45872Y"/>
+</value>
+</map>
+<map>
+<var-term functor="X"/>
+<value>
+<var-term functor="_45871X"/>
+</value>
+</map>
+</unifier>
+</intended-means>
+</intention>
+</intentions>
+<actions>
+<action intention="13771" pending="13771" result="false" term="do(skip)"/>
+</actions>
+</circumstance>
+</agent>

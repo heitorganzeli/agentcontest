@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="http://moise.sourceforge.net/xml/os.xsl" type="text/xsl" ?>
+
+<organisational-specification 
+
+    id="jason-cowboys"
+    os-version="0.7"
+  
+    xmlns='http://moise.sourceforge.net/os'
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:schemaLocation='http://moise.sourceforge.net/os
+                        http://moise.sourceforge.net/xml/os.xsd' >
+    
+    <structural-specification>
+        <properties>
+            <property id="check-players-in-remove-group"   value="false" />
+            <property id="check-sub-group-in-remove-group" value="false" />
+            <property id="check-missions-in-remove-role"   value="false" />
+        </properties>
+
+        <role-definitions>
+	    <role id="change" />
+	    <role id="change1">  <extends role="change"/> </role>
+	    <role id="change2">  <extends role="change"/> </role>
+        </role-definitions>
+
+        <group-specification id="team">
+            <links>
+                <link from="change" to="change" type="communication"
+                      scope="inter-group" extends-sub-groups="true" bi-dir="false"/>
+                <link from="change" to="change" type="authority"
+                      scope="intra-group" extends-sub-groups="true" bi-dir="false"/>
+            </links>
+            <sub-groups>	
+                <group-specification id="chng1" min="1" max="10" >
+                    <roles>
+		    	<role id="change1" min="1" max="10"/>
+                    </roles>
+                </group-specification>
+
+                <group-specification id="chng2" min="1" max="10" >
+                    <roles>
+		    	<role id="change2" min="1" max="10"/>
+                    </roles>
+                </group-specification> 
+            </sub-groups>
+            <formation-constraints>
+	        <compatibility from="change1" to="change2" 
+                               scope="intra-group" extends-sub-groups="true" 
+                               bi-dir="true"/>
+            </formation-constraints>
+        </group-specification>
+    </structural-specification>
+
+
+
+    <functional-specification>
+        <properties>
+            <property id="check-players-in-remove-responsible-group"   value="false" />
+            <property id="check-players-in-remove-scheme"              value="false" />
+            <property id="only-owner-can-remove-scheme"                value="false" />
+            <property id="check-goals-in-remove-mission"               value="false" />
+            <property id="check-formation-in-responsible-group"        value="false" />
+        </properties>
+    
+        <scheme id="change_scheme1" >
+	    <goal id="be_normal1" >
+	    	<plan operator="parallel">
+			<goal id="go_random" type="maintenance"/>		
+			<goal id="check_change" type="maintenance"/>
+		</plan>
+	    </goal>
+	    <mission id="be_normal_mission1">
+	    
+		<goal id="go_random"  />	
+		<goal id="check_change"  />
+	    </mission>
+       </scheme>
+       <scheme id="change_scheme2" >
+	    <goal id="be_normal2" >
+	    	<plan operator="parallel">
+			<goal id="go_random" type="maintenance" />
+			<goal id="check_change" type="maintenance"/>
+		</plan>
+	    </goal>
+	    <mission id="be_normal_mission2">
+
+		<goal id="go_random"  />	
+		<goal id="check_change"  />	
+	    </mission>
+       </scheme>       
+
+    </functional-specification>
+
+    <normative-specification>
+          <norm id="n1"  type="obligation" role="change1" mission="be_normal_mission1" />
+        <norm id="n2"  type="obligation" role="change2"  mission="be_normal_mission2" />
+         </normative-specification>
+</organisational-specification>
+

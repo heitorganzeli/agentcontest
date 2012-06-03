@@ -1,0 +1,17 @@
+/*
+    Jason Project
+
+    -- created on February 13, 2011
+*/
+
+MAS dummies {
+   infrastructure: Centralised
+
+   agents:
+       dummy [port=12300, username="a#nid", teamid="dummy", host="localhost", password="1"] agentArchClass arch.ACArchitecture agentClass agent.SelectEvent beliefBaseClass agent.UniqueBelsBB("gsize(_,_)","steps(_)","ally_pos(key,_,_)","corral(_,_,_,_)","target(_,_)") #9;
+       dummy10 dummy.asl [port=12300, username="a#nid", teamid="dummy", host="localhost", verbose=1, password="1"] agentArchClass arch.ACArchitecture agentClass agent.SelectEvent beliefBaseClass agent.UniqueBelsBB("gsize(_,_)","steps(_)","ally_pos(key,_,_)","corral(_,_,_,_)","target(_,_)");
+       dummy2;
+       change;
+
+   aslSourcePath: "src/asl"; 
+}
